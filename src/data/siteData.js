@@ -104,7 +104,7 @@ const siteData = {
     "trustBadge": "49+ Happy Clients",
     "backgroundImages": [
       {
-        "url": "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=1920&q=85",
+        "url": "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&fit=crop&q=80",
         "alt": "Vibrant Pests control and Fumigation services Harare Zimbabwe professional work"
       },
       {
@@ -112,7 +112,7 @@ const siteData = {
         "alt": "Vibrant Pests control and Fumigation services Harare Zimbabwe professional work"
       },
       {
-        "url": "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=1920&q=85",
+        "url": "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&fit=crop&q=80",
         "alt": "Vibrant Pests control and Fumigation services Harare Zimbabwe showcase"
       }
     ]
@@ -183,7 +183,7 @@ const siteData = {
           "Inspections",
           "Annual Contracts"
         ],
-        "image": "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80"
+        "image": "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&fit=crop&q=80"
       },
       {
         "title": "General Pest Control",
@@ -211,7 +211,7 @@ const siteData = {
           "Monitoring",
           "Exclusion"
         ],
-        "image": "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80"
+        "image": "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&fit=crop&q=80"
       },
       {
         "title": "Fumigation Services",
@@ -239,7 +239,7 @@ const siteData = {
           "Warehouses",
           "Office Buildings"
         ],
-        "image": "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80"
+        "image": "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&fit=crop&q=80"
       },
       {
         "title": "Lawn & Garden Pests",
@@ -273,9 +273,9 @@ const siteData = {
           "General Pest Control",
           "Rodent Control"
         ],
-        "image": "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+        "image": "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&fit=crop&q=80",
         "images": [
-          "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+          "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&fit=crop&q=80",
           "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80"
         ]
       },
@@ -294,7 +294,7 @@ const siteData = {
         "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80",
         "images": [
           "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80",
-          "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80"
+          "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&fit=crop&q=80"
         ]
       },
       {
@@ -309,9 +309,9 @@ const siteData = {
           "Fumigation Services",
           "Commercial Services"
         ],
-        "image": "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+        "image": "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&fit=crop&q=80",
         "images": [
-          "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+          "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&fit=crop&q=80",
           "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80"
         ]
       },
@@ -330,7 +330,7 @@ const siteData = {
         "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80",
         "images": [
           "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80",
-          "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80"
+          "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&fit=crop&q=80"
         ]
       },
       {
@@ -345,9 +345,9 @@ const siteData = {
           "Lawn & Garden Pests",
           "Termite Control"
         ],
-        "image": "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+        "image": "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&fit=crop&q=80",
         "images": [
-          "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+          "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&fit=crop&q=80",
           "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80"
         ]
       },
@@ -366,7 +366,7 @@ const siteData = {
         "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80",
         "images": [
           "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80",
-          "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80"
+          "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&fit=crop&q=80"
         ]
       },
       {
@@ -381,9 +381,9 @@ const siteData = {
           "General Pest Control",
           "Rodent Control"
         ],
-        "image": "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+        "image": "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&fit=crop&q=80",
         "images": [
-          "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80",
+          "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&fit=crop&q=80",
           "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80"
         ]
       },
@@ -402,7 +402,7 @@ const siteData = {
         "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80",
         "images": [
           "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80",
-          "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=800&q=80"
+          "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&fit=crop&q=80"
         ]
       }
     ]
@@ -631,7 +631,7 @@ const siteData = {
     "ctaPrimary": "Contact Us",
     "ctaSecondary": "Chat on WhatsApp",
     "whatsappText": "Hello Vibrant Pests control and Fumigation services Harare Zimbabwe! I found your website and would like to enquire about your services.",
-    "backgroundImage": "https://images.unsplash.com/photo-1584813539890-30373c796e72?w=1920&q=85"
+    "backgroundImage": "https://images.unsplash.com/photo-1558904541-efa843a96f01?w=1200&fit=crop&q=80"
   },
   "footer": {
     "description": "Vibrant Pests control and Fumigation services Harare Zimbabwe provides professional pest control and fumigation services across Harare. We protect hom.",
